@@ -1,7 +1,7 @@
 ## React workshop
 
  - Intro + ice breaker
- - Quick start, using create-react-app
+ - Quick start, using create-next-app
  - Hands on: React-TS dev set up
 
  - Basics
@@ -27,13 +27,14 @@
    - walk-through of most used sideEffect functions
  - >Hands-on: use state in the react component
 
- - React-router 
+ - Routing 
    - adding routes to the react app
  - >Hands-on: Add a new route
 
  - API-integration
    - fetch data from generic API endpoint and display
-    add/update data using API endpoint
+   - add/update data using API endpoint
+   - react-query usage
  - >Hands-on: API integration
 
  - Error-handling 
@@ -50,5 +51,5 @@
    - Higher order components
  - >Hands-on: Implement a higher-order component
 
- - Introduction to NextJS
+ - NIB core app specific discussions
  - Next steps
